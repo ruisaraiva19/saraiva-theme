@@ -50,3 +50,7 @@ Import `Saraiva.itermcolors` file into your default profile color settings
 Change font to Fira Code Regular 12pt
 
 ![iTerm Fira Code Font](iterm-fira-code-font.png)
+
+## Visual Studio Code
+
+Copy settings from `vscode-settings.json` to your Visual Studio Code settings

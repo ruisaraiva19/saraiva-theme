@@ -1,0 +1,21 @@
+{
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "FiraCode-Light, Menlo, Monaco, monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.shellArgs.osx": [],
+  "terminal.integrated.fontWeightBold": "normal",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorCustomizations": {
+    "editor.background": "#2B303B",
+    "tab.activeBackground": "#2B303B",
+    "tab.inactiveBackground": "#22262f",
+    "tab.border": "#2B303B",
+    "activityBar.background": "#2B303B",
+    "editorGroup.background": "#2B303B",
+    "sideBar.background": "#22262f",
+    "statusBar.background": "#22262f",
+    "titleBar.activeBackground": "#2B303B"
+  }
+}
