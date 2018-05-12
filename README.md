@@ -6,6 +6,10 @@ Fira Code ([Get here](https://github.com/tonsky/FiraCode))
 
 ## Oh-my-zsh theme
 
+![Terminal print ls -lsa](terminal-print-ls-lsa.png)
+
+![Terminal print git commit](terminal-print-git-commit.png)
+
 ### Install oh-my-zsh
 
 via curl
@@ -54,3 +58,5 @@ Change font to Fira Code Regular 12pt
 ## Visual Studio Code
 
 Copy settings from `vscode-settings.json` to your Visual Studio Code settings
+
+![Visual Studio Code print](vscode-print.png)
